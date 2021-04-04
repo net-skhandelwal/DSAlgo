@@ -10,7 +10,7 @@ namespace DSAlgoCSharp
         static void Main(string[] args)
         {
             var array = new ReverseArray( new MockArray());
-            array.RevArrayIteration(9);
+            array.RevArrayRecursion(9);
         }
     }
 }
