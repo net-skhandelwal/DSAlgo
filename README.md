@@ -1,8 +1,3 @@
-# Data Structures & Algorithms
-This repository is a container of DS & Algo question along with solutions.
-
-> Thanks to Love Babbar
-
 # DSA-CRACKER
 
 #### :red_circle: :red_circle: IMPORTANT : If you forked this repo and want to be updated with the changes made to this repo refer [How do I update a GitHub forked repository?](https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository)
