@@ -1,4 +1,7 @@
-﻿using System;
+﻿using DSAlgoCSharp.Array;
+using DSAlgoCSharp.Array.Contract;
+using DSAlgoCSharp.Array.Repository;
+using System;
 
 namespace DSAlgoCSharp
 {
@@ -6,7 +9,8 @@ namespace DSAlgoCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var array = new ReverseArray( new MockArray());
+            array.RevArrayIteration(9);
         }
     }
 }
